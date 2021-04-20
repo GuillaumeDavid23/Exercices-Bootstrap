@@ -1,16 +1,18 @@
 body,html{
+    margin: 0;
     padding: 0;
 }
+
 .bloc{
     background-color: lightskyblue;
-    text-align: center;
     color: white;
+    margin: 1px;
 }
 
-.col-4{
-    padding: 1px;
+.bloc1{
+    background-color: orange;
+    color: white;
+    margin: 1px;
 }
 
-.col-xl-4{
-    padding: 1px;
-}
+
