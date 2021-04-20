@@ -1,5 +1,16 @@
+body,html{
+    padding: 0;
+}
 .bloc{
     background-color: lightskyblue;
     text-align: center;
     color: white;
+}
+
+.col-4{
+    padding: 1px;
+}
+
+.col-xl-4{
+    padding: 1px;
 }
